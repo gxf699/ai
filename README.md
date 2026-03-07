@@ -1,54 +1,43 @@
-<!-- GitHub Profile README Template -->
+<!-- GitHub Profile README for gxf699 (古晓锋) -->
 
-<h1 align="center">Hi 👋，我是 gxf699</h1>
+<h1 align="center">👋 你好，我是古晓锋（gxf699）</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=热爱技术+专注网络安全+享受进步+欢迎交流！" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🙋‍♂️ 关于我
+### 🧑‍🎓 个人简介
 
-- 🎓 你可以简单介绍下学历/职业/背景  
-- 🌱 正在学习：如 React, TypeScript, 数据科学等  
-- 💬 欢迎提问：你的技术或兴趣领域  
-- 📫 联系方式：[你的邮箱](mailto:3450584019@qq.com)  
-- 🚀 目前目标：你的短期职业或学习目标
+> 广东石油化工学院 · 网络工程 · 2027届  
+> 热爱钻研技术，主攻网络与信息安全，乐于探究和实战，喜欢用代码解决实际问题。保持乐观、主动、细致入微，期待用技术创造价值、连接世界。
 
 ---
 
-## 🛠️ 技能
+### 📬 联系方式
 
-- **编程语言**：`Python` | `JavaScript` | `TypeScript` | `Java` | `C++`
-- **框架/工具**：`React` | `Vue` | `Node.js` | `Django` | `Flask` | `Git`
-- **数据库**：`MySQL` | `MongoDB` | `PostgreSQL`
-
----
-
-## 📈 我的 GitHub 数据
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gxf699&show_icons=true&theme=transparent" alt="stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxf699&layout=compact&theme=transparent" alt="langs" height="170">
-</p>
+- 📧 邮箱：[3450584019@qq.com](mailto:3450584019@qq.com)  
+- 📱 电话/微信：17802036608  
+- 🏠 家乡：广东梅州  
+- 📄 [我的简历（PDF下载）](./Resume-GuXiaofeng.pdf)  
 
 ---
 
-## 🌐 社交 & 联系方式
+### 🎓 教育背景
 
-<p>
-  <a href="https://github.com/gxf699">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <!-- 更多社交可自定义 -->
-</p>
+**广东石油化工学院**（2023 – 2027）· 网络工程 本科  
+- 主修：C语言、计算机网络、数据结构、Java、数据库、路由与交换等  
+- 🏆 获 2024 年度综合奖学金二等奖
 
 ---
 
-<!-- 动态内容例子：GitHub 活动（需配置对应action） -->
-<!-- 
-[![gxf699's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gxf699&theme=github-compact)](https://github.com/gxf699)
--->
+### 🛠️ 技能&技术栈
+
+- **编程语言：**  
+  C / Java / Python / JavaScript (Vue/React)  
+- **数据库：**  
+  MySQL（设计与性能优化）  
+- **网络技术：**  
+  TCP/IP、VLAN、STP、OSPF、ACL、NAT、网络抓包与分析（Wireshark）  
+- **安全工具：**  
+  Metasploit、SQLMap
